@@ -1,1 +1,1 @@
-[Contribution guidelines for this project](Diagrama sin titulo.drawio)
+[Contribution guidelines for this project](Diagrama sin título.drawio)
